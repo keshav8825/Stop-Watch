@@ -2,7 +2,6 @@
 
 This is a simple stopwatch web application built using HTML, CSS, and JavaScript.
 
-![Stopwatch Demo](demo.gif)
 
 ## Features
 
